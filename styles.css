@@ -1,0 +1,10 @@
+.smaller {
+  font-size: 0.8em;
+}
+
+.reveal .footer {
+  font-size: 0.7em; /* Footer boyutunu küçültmek için font boyutunu ayarlayın */
+  text-align: center; /* Ortalamak için */
+  color: #555; /* Daha açık bir renk tonu için */
+  margin-top: 10px; /* Üst boşluk ayarı */
+}
