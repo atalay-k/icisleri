@@ -5,7 +5,6 @@
 .Ruserdata
 *.qmd
 *.Rmd
-*.pdf
 *.Rproj
 *.R
 *.docx
