@@ -1,4 +1,13 @@
+.git/index.lock
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+*.qmd
+*.Rmd
+*.pdf
+*.Rproj
+*.R
+*.docx
+/.quarto/
+
